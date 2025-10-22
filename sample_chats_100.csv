@@ -1,0 +1,101 @@
+sender,timestamp,message_text,label
+Priya,2025-01-02 09:00:00,"Super helpful, thank you!",positive
+Jordan,2025-01-02 09:05:00,I'm angry this was not tested,negative
+Priya,2025-01-02 09:10:00,Build is in progress,neutral
+Jamie,2025-01-02 09:15:00,Well done on the update,positive
+Priya,2025-01-02 09:20:00,This design is dumb and useless,negative
+Priya,2025-01-02 09:25:00,The service is down; this is awful,negative
+Jordan,2025-01-02 09:30:00,Let's document this,neutral
+Taylor,2025-01-02 09:35:00,I'll take a look later,neutral
+Jordan,2025-01-02 09:40:00,"Super helpful, thank you!",positive
+Jamie,2025-01-02 09:45:00,"Super helpful, thank you!",positive
+Jamie,2025-01-02 09:50:00,We need more information,neutral
+Priya,2025-01-02 09:55:00,Can you share the logs?,neutral
+Taylor,2025-01-02 10:00:00,Build is in progress,neutral
+Alex,2025-01-02 10:05:00,The build failed again and I'm frustrated,negative
+Avery,2025-01-02 10:10:00,"Thanks for the quick fix, much appreciated",positive
+Priya,2025-01-02 10:15:00,This looks good to me,positive
+Avery,2025-01-02 10:20:00,Brilliant solution,positive
+Taylor,2025-01-02 10:25:00,Not good. This is getting annoying,negative
+Jamie,2025-01-02 10:30:00,The tests are running,neutral
+Taylor,2025-01-02 10:35:00,Build is in progress,neutral
+Taylor,2025-01-02 10:40:00,"Nice work team, keep it up",positive
+Taylor,2025-01-02 10:45:00,Great job on the release!,positive
+Jordan,2025-01-02 10:50:00,Not good. This is getting annoying,negative
+Jordan,2025-01-02 10:55:00,The performance is excellent,positive
+Avery,2025-01-02 11:00:00,This design is dumb and useless,negative
+Avery,2025-01-02 11:05:00,We need more information,neutral
+Alex,2025-01-02 11:10:00,This design is dumb and useless,negative
+Jamie,2025-01-02 11:15:00,This approach sucks and is terrible,negative
+Jamie,2025-01-02 11:20:00,Great job on the release!,positive
+Jordan,2025-01-02 11:25:00,"Nice work team, keep it up",positive
+Taylor,2025-01-02 11:30:00,This approach sucks and is terrible,negative
+Taylor,2025-01-02 11:35:00,Not good. This is getting annoying,negative
+Avery,2025-01-02 11:40:00,This design is dumb and useless,negative
+Avery,2025-01-02 11:45:00,The performance is excellent,positive
+Taylor,2025-01-02 11:50:00,The service is down; this is awful,negative
+Priya,2025-01-02 11:55:00,I'm angry this was not tested,negative
+Avery,2025-01-02 12:00:00,This approach sucks and is terrible,negative
+Taylor,2025-01-02 12:05:00,Let's document this,neutral
+Alex,2025-01-02 12:10:00,Noted,neutral
+Sam,2025-01-02 12:15:00,Well done on the update,positive
+Alex,2025-01-02 12:20:00,"Thanks for the quick fix, much appreciated",positive
+Sam,2025-01-02 12:25:00,This design is dumb and useless,negative
+Priya,2025-01-02 12:30:00,Great job on the release!,positive
+Priya,2025-01-02 12:35:00,Noted,neutral
+Alex,2025-01-02 12:40:00,"Thanks for the quick fix, much appreciated",positive
+Jordan,2025-01-02 12:45:00,Well done on the update,positive
+Avery,2025-01-02 12:50:00,Let's schedule a meeting for tomorrow,neutral
+Avery,2025-01-02 12:55:00,The performance is excellent,positive
+Avery,2025-01-02 13:00:00,Can you share the logs?,neutral
+Priya,2025-01-02 13:05:00,Build is in progress,neutral
+Taylor,2025-01-02 13:10:00,Can you share the logs?,neutral
+Sam,2025-01-02 13:15:00,Let's document this,neutral
+Avery,2025-01-02 13:20:00,This code is trash,negative
+Jamie,2025-01-02 13:25:00,Fantastic progress today,positive
+Taylor,2025-01-02 13:30:00,What time works for everyone?,neutral
+Jordan,2025-01-02 13:35:00,This design is dumb and useless,negative
+Jamie,2025-01-02 13:40:00,We need more information,neutral
+Jamie,2025-01-02 13:45:00,WTF is happening here,negative
+Jamie,2025-01-02 13:50:00,Let's schedule a meeting for tomorrow,neutral
+Priya,2025-01-02 13:55:00,The service is down; this is awful,negative
+Alex,2025-01-02 14:00:00,I love this approach,positive
+Alex,2025-01-02 14:05:00,This code is trash,negative
+Taylor,2025-01-02 14:10:00,Fantastic progress today,positive
+Taylor,2025-01-02 14:15:00,What time works for everyone?,neutral
+Alex,2025-01-02 14:20:00,Let's schedule a meeting for tomorrow,neutral
+Jordan,2025-01-02 14:25:00,Please review the PR when you can,neutral
+Priya,2025-01-02 14:30:00,Let's schedule a meeting for tomorrow,neutral
+Alex,2025-01-02 14:35:00,We need more information,neutral
+Alex,2025-01-02 14:40:00,The performance is excellent,positive
+Priya,2025-01-02 14:45:00,This design is dumb and useless,negative
+Jordan,2025-01-02 14:50:00,Well done on the update,positive
+Priya,2025-01-02 14:55:00,WTF is happening here,negative
+Priya,2025-01-02 15:00:00,"Super helpful, thank you!",positive
+Taylor,2025-01-02 15:05:00,Well done on the update,positive
+Priya,2025-01-02 15:10:00,This keeps breaking. Hate this,negative
+Avery,2025-01-02 15:15:00,What a terrible experience,negative
+Priya,2025-01-02 15:20:00,Let's schedule a meeting for tomorrow,neutral
+Alex,2025-01-02 15:25:00,What a terrible experience,negative
+Sam,2025-01-02 15:30:00,Brilliant solution,positive
+Jamie,2025-01-02 15:35:00,This keeps breaking. Hate this,negative
+Avery,2025-01-02 15:40:00,Please review the PR when you can,neutral
+Jordan,2025-01-02 15:45:00,Not good. This is getting annoying,negative
+Alex,2025-01-02 15:50:00,Brilliant solution,positive
+Jordan,2025-01-02 15:55:00,We need more information,neutral
+Avery,2025-01-02 16:00:00,Let's schedule a meeting for tomorrow,neutral
+Priya,2025-01-02 16:05:00,What time works for everyone?,neutral
+Priya,2025-01-02 16:10:00,The performance is excellent,positive
+Jamie,2025-01-02 16:15:00,This looks good to me,positive
+Jamie,2025-01-02 16:20:00,This approach sucks and is terrible,negative
+Sam,2025-01-02 16:25:00,Well done on the update,positive
+Priya,2025-01-02 16:30:00,Not good. This is getting annoying,negative
+Jamie,2025-01-02 16:35:00,Let's document this,neutral
+Alex,2025-01-02 16:40:00,The build failed again and I'm frustrated,negative
+Jordan,2025-01-02 16:45:00,Let's document this,neutral
+Avery,2025-01-02 16:50:00,Please review the PR when you can,neutral
+Alex,2025-01-02 16:55:00,The service is down; this is awful,negative
+Priya,2025-01-02 17:00:00,The tests are running,neutral
+Jamie,2025-01-02 17:05:00,Well done on the update,positive
+Priya,2025-01-02 17:10:00,What a terrible experience,negative
+Alex,2025-01-02 17:15:00,This looks good to me,positive

@@ -1,0 +1,6 @@
+sender,timestamp,message_text,label
+Alex,2025-01-02,Great job on the release!,positive
+Priya,2025-01-02,The build failed again and I'm frustrated,negative
+Alex,2025-01-02,Not good. This is getting annoying,negative
+Sam,2025-01-02,Please fix the bug ASAP,neutral
+Priya,2025-01-02,This approach sucks and is terrible,negative
